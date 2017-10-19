@@ -69,22 +69,27 @@ var bugs = 9
 var hasMusic = true
 var numberOfLevels = 6
 
+// CODE REVIEW: 10-18-2017 Create constants "Magic Numbers" as per code review.  This is to ensure if it needs to change in many places, all you would need to do is update in one location.
+let bugsLimitToPass = 10
+let numberOfLevelsToPass = 5
+
 func release() {
     print("\(game) is now ready for sale.")
 }
 
 func checkForRelease(bugs: Int, music: Bool, levels: Int) {
     
+    
     var bugsPassed = false
     
     var levelsPassed = false
     
-    if( bugs < 10)
+    if( bugs < bugsLimitToPass)
     {
         bugsPassed = true
     }
     
-    if numberOfLevels > 5 {
+    if numberOfLevels > numberOfLevelsToPass {
         levelsPassed = true
     }
     

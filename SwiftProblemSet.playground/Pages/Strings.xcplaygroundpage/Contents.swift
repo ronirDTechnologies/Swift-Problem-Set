@@ -30,7 +30,8 @@ var updatedString = lottaLikes.replacingOccurrences(of: "like", with: "")
 //: ### Exercise 8
 //: Josie has been saving her pennies and has them all counted up. Using string interpoltaion, write code that, given a number of pennies, prints out how much money Josie has in dollars and cents.
 //: **Hint**: [The remainder operator](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html) , %, will come in handy.
-let numOfPennies = 567070
+// CODE REVIEW: 10-18-2017 Updated numOfPennies to show correct output per code review.
+let numOfPennies = 567
 //desired output = "$5.67"
 var centsAmt = numOfPennies % 100
 var dollarAmt = numOfPennies / 100
@@ -41,8 +42,9 @@ var formattedMoneyAmt = "Josie has $ \(dollarAmt).\(centsAmt) in dollars and cen
 let averageMonthlyEarnings: Float = 2500
 var averageRent: Float = 800
 var rentPercentOfEarnings: Float = (averageRent / averageMonthlyEarnings) * 100
-var weeklyEarningsString = "On average, millenials spend X% of their income on rent."
-weeklyEarningsString = weeklyEarningsString.replacingOccurrences(of: "X", with: String(rentPercentOfEarnings))
+// CODE REVIEW: 10-18-2017 Updated to use string interpolation.
+var weeklyEarningsString = "On average, millenials spend \(rentPercentOfEarnings)% of their income on rent."
+//weeklyEarningsString = weeklyEarningsString.replacingOccurrences(of: "X", with: String(rentPercentOfEarnings))
 /*:
  ****
  [Table of Contents](Table%20of%20Contents) | [Previous](@previous) | [Next](@next)

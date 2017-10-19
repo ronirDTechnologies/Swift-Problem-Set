@@ -3,27 +3,37 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=18&amp;CharacterRangeLoc=656&amp;EndingColumnNumber=21&amp;EndingLineNumber=22&amp;StartingColumnNumber=3&amp;StartingLineNumber=22&amp;Timestamp=529953668.52412"
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=18&amp;CharacterRangeLoc=656&amp;EndingColumnNumber=21&amp;EndingLineNumber=22&amp;StartingColumnNumber=3&amp;StartingLineNumber=22&amp;Timestamp=530074885.892364"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=53&amp;CharacterRangeLoc=350&amp;EndingColumnNumber=0&amp;EndingLineNumber=17&amp;StartingColumnNumber=5&amp;StartingLineNumber=16&amp;Timestamp=529953668.524416"
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=53&amp;CharacterRangeLoc=350&amp;EndingColumnNumber=0&amp;EndingLineNumber=17&amp;StartingColumnNumber=5&amp;StartingLineNumber=16&amp;Timestamp=530074885.892703"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=13&amp;CharacterRangeLoc=951&amp;EndingColumnNumber=18&amp;EndingLineNumber=27&amp;StartingColumnNumber=5&amp;StartingLineNumber=27&amp;Timestamp=529953668.524674"
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=13&amp;CharacterRangeLoc=951&amp;EndingColumnNumber=18&amp;EndingLineNumber=27&amp;StartingColumnNumber=5&amp;StartingLineNumber=27&amp;Timestamp=530074885.892984"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=17&amp;CharacterRangeLoc=1551&amp;EndingColumnNumber=22&amp;EndingLineNumber=36&amp;StartingColumnNumber=5&amp;StartingLineNumber=36&amp;Timestamp=529953668.524935"
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=17&amp;CharacterRangeLoc=1625&amp;EndingColumnNumber=11&amp;EndingLineNumber=37&amp;StartingColumnNumber=29&amp;StartingLineNumber=36&amp;Timestamp=530074885.893262"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=87&amp;CharacterRangeLoc=2019&amp;EndingColumnNumber=0&amp;EndingLineNumber=45&amp;StartingColumnNumber=24&amp;StartingLineNumber=44&amp;Timestamp=529953668.525204"
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=87&amp;CharacterRangeLoc=2174&amp;EndingColumnNumber=94&amp;EndingLineNumber=46&amp;StartingColumnNumber=7&amp;StartingLineNumber=46&amp;Timestamp=530074885.893528"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=76&amp;CharacterRangeLoc=1988&amp;EndingColumnNumber=6&amp;EndingLineNumber=45&amp;StartingColumnNumber=74&amp;StartingLineNumber=43&amp;Timestamp=530074885.893816"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ronirozenblat/Desktop/Udacity/Playground%20Lessons/Swift%20Intro/Problem%20Set/SwiftProblemSet.playground/Pages/Strings.xcplaygroundpage#CharacterRangeLen=73&amp;CharacterRangeLoc=2002&amp;EndingColumnNumber=17&amp;EndingLineNumber=45&amp;StartingColumnNumber=8&amp;StartingLineNumber=44&amp;Timestamp=530074885.894077"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
